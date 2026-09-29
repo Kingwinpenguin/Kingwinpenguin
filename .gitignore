@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.fiber_check_cache.json
+fiber_rentals.csv
+.venv/
