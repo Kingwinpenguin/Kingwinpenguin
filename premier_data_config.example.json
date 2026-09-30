@@ -1,0 +1,14 @@
+{
+  "callback_list_url": "",
+  "showed_appointments_url": "",
+  "callback_webhook_url": "",
+  "showed_webhook_url": "",
+  "cookie_header": "",
+  "cookie_file": "",
+  "next_link_contains": "",
+  "max_pages": 1,
+  "minimum_columns": 2,
+  "request_timeout_seconds": 30,
+  "fire_webhook_on_first_run": false,
+  "state_file": "premier_watch_state.json"
+}
